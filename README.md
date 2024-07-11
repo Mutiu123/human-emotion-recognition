@@ -1,10 +1,10 @@
 ## **Project Description:**
 This project involves the development of a machine learning model capable of recognizing human emotions from images. The model is integrated into an application using Streamlit, which provides an interactive user interface for real-time emotion detection.
 
-**Problem Statement:**
+## **Problem Statement:**
 Emotion recognition is a challenging aspect of computer vision and artificial intelligence, with significant implications in various fields such as psychology, marketing, and human-computer interaction. The goal is to create an automated system that accurately identifies human emotions from facial expressions in images.
 
-**Project Methodology:**
+## **Project Methodology:**
 - A convolutional neural network (CNN) model was trained on a dataset of facial expressions to classify emotions.
 - The model was saved and loaded into the Streamlit app.
 - The app accepts an image path input from the user, processes the image, and uses the model to predict the emotion.
@@ -15,19 +15,19 @@ Emotion recognition is a challenging aspect of computer vision and artificial in
 - Creation of an accessible application for non-technical users to leverage AI for emotion recognition.
 - Provision of a tool that can be used for psychological analysis or enhancing user experience in various digital platforms.
 
-**Deployment Process:**
+## **Deployment Process:**
 The model was deployed within a Streamlit application, which was set up to:
 - Allow users to input an image path.
 - Process and predict the emotion from the image using the pre-trained model.
 - Display both the result and the image within the app interface.
 
-**Impact and Practical Applications:**
+## **Impact and Practical Applications:**
 The project has potential applications in:
 - Enhancing user experience by adapting responses or content based on detected emotions.
 - Assisting psychologists in analyzing patients' emotional states.
 - Providing insights for market researchers on consumer reactions to products or advertisements.
 
-**Conclusion:**
+## **Conclusion:**
 The human emotion recognition project successfully demonstrates how AI can be utilized to interpret complex human expressions. The integration of this technology into a user-friendly application paves the way for numerous practical applications that can benefit various sectors by providing deeper emotional insights.
 
 I hope this description serves your needs well. If you require further details or adjustments, please let me know!
