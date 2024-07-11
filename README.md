@@ -10,7 +10,7 @@ Emotion recognition is a challenging aspect of computer vision and artificial in
 - The app accepts an image path input from the user, processes the image, and uses the model to predict the emotion.
 - The predicted emotion is displayed to the user along with the input image.
 
-**Contributions:**
+## **Contributions:**
 - Development of a robust emotion classification model.
 - Creation of an accessible application for non-technical users to leverage AI for emotion recognition.
 - Provision of a tool that can be used for psychological analysis or enhancing user experience in various digital platforms.
